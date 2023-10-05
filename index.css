@@ -1,0 +1,35 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image : url("poker-casino-playing-card-black-background_512634-65.avif");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 75;
+}
+
+#message-el {
+    font-size: 50;
+    font-style: italic;
+}
+
+p{
+    font-size: 50;
+    
+}
+
+button{
+    color: #016f32;
+    width: 200px;
+    height: 75px;
+    background: rgb(255, 211, 101);
+    padding-top: 5px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
