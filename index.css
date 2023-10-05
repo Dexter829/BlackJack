@@ -5,20 +5,21 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
+    scroll-behavior:auto;
 }
 
 h1 {
     color: goldenrod;
-    font-size: 75;
+    font-size: 65;
 }
 
 #message-el {
-    font-size: 50;
+    font-size: 45;
     font-style: italic;
 }
 
 p{
-    font-size: 50;
+    font-size: 45;
     
 }
 
